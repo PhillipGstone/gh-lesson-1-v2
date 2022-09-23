@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* =================== Section Top ==================== */
@@ -25,6 +26,17 @@
     justify-content: space-between;
     height: 10vh;
     align-items: center;
+}
+
+.li-menu-top {
+    padding: 1%;
+}
+
+.li-menu-top:hover {
+    cursor: pointer;
+    background-color: rgb(128, 128, 128, 0.7);
+    padding: 1%;
+    color: white;
 }
 
 /* =================== Section Middle ==================== */
