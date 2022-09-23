@@ -39,6 +39,11 @@
     color: white;
 }
 
+.li-menu-top:active {
+    transform: translateY(2px);
+    background-color: rgba(73, 73, 73, 0.7);
+}
+
 /* =================== Section Middle ==================== */
 
 .section-middle {
